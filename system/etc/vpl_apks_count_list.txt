@@ -1,0 +1,4 @@
+/system/preload/Word_SamsungStub_R_LowMemory/Word_SamsungStub_R_LowMemory.apk
+/system/preload/Excel_SamsungStub_R_LowMemory/Excel_SamsungStub_R_LowMemory.apk
+/system/preload/PowerPoint_SamsungStub_R_LowMemory/PowerPoint_SamsungStub_R_LowMemory.apk
+/system/preload/MSSkype_stub_R_LowMemory/MSSkype_stub_R_LowMemory.apk

@@ -1,0 +1,14 @@
+# o7ltedd-user 6.0.1 MMB29M G600FYXXU1BRC3 release-keys
+- manufacturer: samsung
+- platform: msm8916
+- codename: o7lte
+- flavor: o7ltedd-user
+- release: 6.0.1
+- id: MMB29M
+- incremental: G600FYXXU1BRC3
+- tags: release-keys
+- fingerprint: samsung/o7ltedd/o7lte:6.0.1/MMB29M/G600FYXXU1BRC3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: o7ltedd-user-6.0.1-MMB29M-G600FYXXU1BRC3-release-keys
+- repo: samsung_o7lte_dump
